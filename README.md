@@ -1,6 +1,6 @@
-## Formação Power BI da Alura
+# Formação Power BI da Alura
 
-# Cursos:
+## Cursos:
 
 1. Power BI Desktop: construindo meu primeiro dashboard
 
