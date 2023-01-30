@@ -4,4 +4,4 @@
 
 1. Power BI Desktop: construindo meu primeiro dashboard
 
-2. 
+2. Dashboard com Power BI: visualizando dados
